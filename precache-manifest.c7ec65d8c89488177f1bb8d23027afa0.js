@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a253319b418eb90c92b70811e8c0f735",
+    "revision": "750da2692daa105cb235bda0952f3304",
     "url": "https://emeritus101.github.io/csb-niz6d/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://emeritus101.github.io/csb-niz6d/static/js/2.117ab8b2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5edacc262a766e081e28",
-    "url": "https://emeritus101.github.io/csb-niz6d/static/js/main.971562d6.chunk.js"
+    "revision": "314cc76ab180f892ab15",
+    "url": "https://emeritus101.github.io/csb-niz6d/static/js/main.74c6f75b.chunk.js"
   },
   {
     "revision": "f269139dfc62106fbced",

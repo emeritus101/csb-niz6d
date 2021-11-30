@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "https://emeritus101.github.io/csb-niz6d/static/js/main.971562d6.chunk.js",
-    "main.js.map": "https://emeritus101.github.io/csb-niz6d/static/js/main.971562d6.chunk.js.map",
+    "main.js": "https://emeritus101.github.io/csb-niz6d/static/js/main.74c6f75b.chunk.js",
+    "main.js.map": "https://emeritus101.github.io/csb-niz6d/static/js/main.74c6f75b.chunk.js.map",
     "runtime-main.js": "https://emeritus101.github.io/csb-niz6d/static/js/runtime-main.f0b60b66.js",
     "runtime-main.js.map": "https://emeritus101.github.io/csb-niz6d/static/js/runtime-main.f0b60b66.js.map",
     "static/js/2.117ab8b2.chunk.js": "https://emeritus101.github.io/csb-niz6d/static/js/2.117ab8b2.chunk.js",
     "static/js/2.117ab8b2.chunk.js.map": "https://emeritus101.github.io/csb-niz6d/static/js/2.117ab8b2.chunk.js.map",
     "index.html": "https://emeritus101.github.io/csb-niz6d/index.html",
-    "precache-manifest.5cd5fcf50417151277d8b2bd1b6fe1ff.js": "https://emeritus101.github.io/csb-niz6d/precache-manifest.5cd5fcf50417151277d8b2bd1b6fe1ff.js",
+    "precache-manifest.c7ec65d8c89488177f1bb8d23027afa0.js": "https://emeritus101.github.io/csb-niz6d/precache-manifest.c7ec65d8c89488177f1bb8d23027afa0.js",
     "service-worker.js": "https://emeritus101.github.io/csb-niz6d/service-worker.js",
     "static/js/2.117ab8b2.chunk.js.LICENSE.txt": "https://emeritus101.github.io/csb-niz6d/static/js/2.117ab8b2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f0b60b66.js",
     "static/js/2.117ab8b2.chunk.js",
-    "static/js/main.971562d6.chunk.js"
+    "static/js/main.74c6f75b.chunk.js"
   ]
 }
