@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://emeritus101.github.io/csb-niz6d/precache-manifest.6c7454323371b20eb87e440c3d7991fb.js"
+  "https://emeritus101.github.io/csb-niz6d/precache-manifest.5cd5fcf50417151277d8b2bd1b6fe1ff.js"
 );
 
 self.addEventListener('message', (event) => {
